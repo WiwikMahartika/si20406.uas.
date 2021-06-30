@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "48309926841",
+    "firebase_url": "https://kontak-61c70-default-rtdb.firebaseio.com",
+    "project_id": "kontak-61c70",
+    "storage_bucket": "kontak-61c70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48309926841:android:cb6cb8a789c54e9cb99468",
+        "android_client_info": {
+          "package_name": "com.example.kontak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48309926841-u2bdu8416noghivd4ocdapn1dtf58q7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOS0mEsJODdaXB-49jwhAUU9sEik0BYS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48309926841-u2bdu8416noghivd4ocdapn1dtf58q7r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48309926841:android:d1d36a348917e9acb99468",
+        "android_client_info": {
+          "package_name": "com.example.kontakku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48309926841-u2bdu8416noghivd4ocdapn1dtf58q7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOS0mEsJODdaXB-49jwhAUU9sEik0BYS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48309926841-u2bdu8416noghivd4ocdapn1dtf58q7r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
